@@ -106,6 +106,7 @@ Python
 * Plotly
 * Matplotlib
 * Streamlit
+* Tensorflow
 
 ---
 
