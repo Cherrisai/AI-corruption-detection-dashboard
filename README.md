@@ -83,6 +83,7 @@ Identifies regions with higher corruption risk.
 # Project Structure
 
 AI-corruption-detection
+
 │
 ├── app.py
 ├── corruption_model_training.ipynb
