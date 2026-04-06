@@ -10,6 +10,8 @@ An interactive **dashboard built with Streamlit and Plotly** allows users to exp
 
 ---
 
+huggiingface deploy: https://huggingface.co/spaces/cherrisai/corrupt
+
 # Model Training
 
 The AI model was trained using **Jupyter Notebook**.
